@@ -1,0 +1,16 @@
+body {
+  background-color: #5F9595;
+  font-family: Papyrus;
+}
+#hoved {
+  width: 40%;
+  margin: 10px auto;
+  padding: 40px;
+  background-color: white;
+  border: 20px solid #cccccc;
+}
+#Ask {
+  width: 42%;
+  border: 10px solid #f3f3f3
+
+}
